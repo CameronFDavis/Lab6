@@ -17,7 +17,7 @@ public class BuddyInfoTest {
     // test method to create a buddy
     @Test
     public void testAdd(){
-        BuddyInfo buddy = new BuddyInfo(name,phoneNumber,address);
+        BuddyInfo buddy = new BuddyInfo(name,phoneNumber,address,true);
         assertNotNull(buddy);
     }
 

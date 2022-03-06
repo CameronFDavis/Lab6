@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9215c29-ce9a-44ac-a7a6-ea044b40abd5" name="Changes" comment="Initial">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AddressBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AddressBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BuddyInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BuddyInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AddressBookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AddressBookTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BuddyInfoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BuddyInfoTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +52,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AddressBookTest">
+  <component name="RunManager" selected="Application.AddressBook">
     <configuration name="AddressBook" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="AddressBook" />
       <module name="Lab1" />
